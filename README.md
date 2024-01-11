@@ -13,4 +13,6 @@
   <img align="center" alt="FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
+![snake gif](https://github.com/Emilly0liveira/Emilly0liveira/blob/output/github-contribution-grid-snake.svg)
+
 
