@@ -103,7 +103,6 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Emilly0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <br>
 <img 
       align="left" 
       align="GitHub Stats" 
