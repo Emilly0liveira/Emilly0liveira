@@ -94,7 +94,7 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
 <br/>
 
 ### 📊 Estatísticas
-
+<br>
 <p>
   <img 
     align="left" 
@@ -103,13 +103,10 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Emilly0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
-  <br>
 <img 
       align="left" 
       align="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly0liveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
