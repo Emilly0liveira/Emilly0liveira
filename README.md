@@ -25,7 +25,7 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
 
 ### 🤖 Linguagens e Tecnologias
 <br>
-<div style="display: flex; justify-content: flex-start;"></div>
+
 <img 
     align="left" 
     align="HTML"
@@ -34,7 +34,6 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-</div>
 <img 
     align="left" 
     align="CSS" 
