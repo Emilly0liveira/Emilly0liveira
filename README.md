@@ -27,8 +27,8 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
 <br>
 <div style="display: flex; justify-content: flex-start;"></div>
 <img 
-    alt="left" 
-    alt="HTML"
+    align="left" 
+    align="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -36,40 +36,40 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
 />
 </div>
 <img 
-    alt="left" 
-    alt="CSS" 
+    align="left" 
+    align="CSS" 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    alt="left" 
-    alt="JavaScript" 
+    align="left" 
+    align="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    alt="left" 
-    alt="React"
+    align="left" 
+    align="React"
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    alt="left" 
-    alt="Next.js" 
+    align="left" 
+    align="Next.js" 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
-    alt="left" 
-    alt="Bootstrap"
+    align="left" 
+    align="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -84,8 +84,8 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    alt="left" 
-    alt="Python" 
+    align="left" 
+    align="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
@@ -99,16 +99,16 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
 
 <p>
   <img 
-    alt="left" 
-    alt="GitHub Stats" 
+    align="left" 
+    align="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Emilly0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      alt="left" 
-      alt="GitHub Stats" 
+      align="left" 
+      align="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly0liveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
