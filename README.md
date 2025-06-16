@@ -95,18 +95,15 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
 
 ### 📊 Estatísticas
 <br>
-<p  style="display: inline-flex; flex-wrap: wrap; align-items: center;>
+<p>
   <img 
-    align="left" 
-    align="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; display: inline-block; vertical-align: middle;" 
     src="https://github-readme-stats.vercel.app/api?username=Emilly0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<img 
-      align="left" 
-      align="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly0liveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="200" 
+    style="display: inline-block; vertical-align: middle;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly0liveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
