@@ -95,7 +95,7 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
 
 ### 📊 Estatísticas
 <br>
-<p>
+<p  style="display: flex;">
   <img 
     align="left" 
     align="GitHub Stats" 
