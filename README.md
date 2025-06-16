@@ -1,4 +1,4 @@
-## Olá, me chamo Emilly
+## Emilly Gabrielly
 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
 📚 Atualmente aprimorando meus conhecimentos em desenvolvimento de software.
 
