@@ -92,7 +92,6 @@ Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo cert
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
