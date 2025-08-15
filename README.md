@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Olá! Sou Emilly Gabrielly, desenvolvedora formada em Análise e Desenvolvimento de Sistemas.
+# 👩🏻‍💻 Olá! Sou Emilly Gabrielly, Analista e Desenvolvedora de Sistemas.
 
 **`Desenvolvedora Front-End`**
 
