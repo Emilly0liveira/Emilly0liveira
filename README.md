@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Tenho 21 anos, sou técnica em Informática, formada em Web Design e possuo certificação em Inglês.  Atualmente, atuo em uma empresa responsável pela emissão de certificados em todo o Brasil. Sou apaixonada por criar soluções eficientes, interfaces intuitivas e explorar novas ferramentas para evoluir constantemente como profissional na área de TI.
+Sou Técnica em Informática, formada em Análise e Desenvolvimento de Sistemas.  Atualmente, atuo com emissão de certificados. Sou apaixonada por criar soluções eficientes, interfaces intuitivas e explorar novas ferramentas para evoluir constantemente como profissional na área de TI.
 
 ---
 
