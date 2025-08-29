@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Sou Técnica em Informática, formada em Análise e Desenvolvimento de Sistemas.  Atualmente, atuo com emissão de certificados. Sou apaixonada por criar soluções eficientes, interfaces intuitivas e explorar novas ferramentas para evoluir constantemente como profissional na área de TI.
+Sou apaixonada por criar soluções eficientes, interfaces intuitivas e explorar novas ferramentas para evoluir constantemente como profissional na área de TI.
 
 ---
 
