@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Sou apaixonada por criar soluções eficientes, interfaces intuitivas e explorar novas ferramentas para evoluir constantemente como profissional na área de TI.
+Tenho habilidades em criar soluções eficientes, interfaces intuitivas e explorar novas ferramentas para evoluir constantemente como profissional.
 
 ---
 
@@ -57,22 +57,6 @@ Sou apaixonada por criar soluções eficientes, interfaces intuitivas e explorar
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    align="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    align="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     alt="left" 
