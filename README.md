@@ -1,5 +1,4 @@
-# 👩🏻‍💻 Olá! Sou Emilly Gabrielly. Analista e Desenvolvedora de Sistemas.
-
+# 👩🏻‍💻 Hi, my name is Emilly Gabrielly 👋
 **`Desenvolvedora Front-End`**
 
 Tenho habilidades em criar soluções eficientes, interfaces intuitivas e explorar novas ferramentas para evoluir constantemente como profissional.
