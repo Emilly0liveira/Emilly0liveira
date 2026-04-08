@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hi, my name is Emilly Gabrielly 👋
+# 👩🏻‍💻 Olá, Bem Vindo 👋
 **`Desenvolvedora e Analista de Sitemas`**
 
 Me chamo Emilly Gabrielly , tenho 22 anos e atualmente moro em Brasília-DF. Possuo graduação em Análise e Desenvolvimento de Sistemas. Atualmente, estou realizando a Pós em Engenharia de Software. Sou apaixonada e procuro aprender e evoluir ainda mais.
