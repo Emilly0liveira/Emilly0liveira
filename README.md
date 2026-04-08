@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Hi, my name is Emilly Gabrielly 👋
-**`Desenvolvedora Front-End`**
+**`Desenvolvedora e Analista de Sitemas`**
 
-Tenho habilidades em criar soluções eficientes, interfaces intuitivas e explorar novas ferramentas para evoluir constantemente como profissional.
+Me chamo Emilly Gabrielly , tenho 22 anos e atualmente moro em Brasília-DF. Possuo graduação em Análise e Desenvolvimento de Sistemas. Atualmente, estou realizando a Pós em Engenharia de Software. Sou apaixonada e procuro aprender e evoluir ainda mais.
 
 ---
 
@@ -74,13 +74,3 @@ Tenho habilidades em criar soluções eficientes, interfaces intuitivas e explor
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Emilly0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly0liveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
