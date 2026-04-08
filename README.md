@@ -77,10 +77,6 @@ Tenho habilidades em criar soluções eficientes, interfaces intuitivas e explor
 <br/>
 
 ---
-
-### 📊 Estatísticas
-
-<p style="display: flex; gap: 10px; justify-content: start;">
   <img 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=Emilly0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
