@@ -1,7 +1,5 @@
-# 👩🏻‍💻 Olá, Bem Vindo 👋
-**`Desenvolvedora e Analista de Sitemas`**
 
-Me chamo Emilly Gabrielly , tenho 22 anos e atualmente moro em Brasília-DF. Possuo graduação em Análise e Desenvolvimento de Sistemas. Atualmente, estou realizando a Pós em Engenharia de Software.
+Hi, I'm Emilly! I hold a degree in Systems Analysis and Development from CEUB University and I'm currently leveling up my skills in Software Engineering. I develop small-scale projects within my local community and previously built an electronic medical record (EMR) system during college to serve the community.
 
 ---
 
@@ -22,8 +20,8 @@ Me chamo Emilly Gabrielly , tenho 22 anos e atualmente moro em Brasília-DF. Pos
 
 </p>
 
-### 🤖 Linguagens e Tecnologias
-<br>
+### Tech Stack
+<h4> Languages & Full Stack </h4>
 
 <img 
     align="left" 
@@ -74,3 +72,15 @@ Me chamo Emilly Gabrielly , tenho 22 anos e atualmente moro em Brasília-DF. Pos
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+---
+
+### Fun Facts
+
+* **Animation:** Huge fan of Anime and Independent Animation.
+* **Reading:** Currently reading *The Silent Patient* and *Uzumaki*, I love reading horror and fantasy books.
+* **Fitness:** Gym & Running
+  
+---
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-oliveira-07a4a526a/)
