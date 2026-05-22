@@ -1,29 +1,26 @@
-# 👩🏻‍💻 Olá, Bem Vindo 👋
-**`Desenvolvedora e Analista de Sitemas`**
 
-Me chamo Emilly Gabrielly , tenho 22 anos e atualmente moro em Brasília-DF. Possuo graduação em Análise e Desenvolvimento de Sistemas. Atualmente, estou realizando a Pós em Engenharia de Software.
 
----
+Hi, I'm Emilly! I hold a degree in Systems Analysis and Development from CEUB University and I'm currently leveling up my skills in Software Engineering. I develop small-scale projects within my local community and previously built an electronic medical record (EMR) system during college to serve the community.
 
   <a href="https://github.com/Emilly0liveira?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Followers" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Emilly0liveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 <a href="https://github.com/Emilly0liveira?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
+            alt="Stars" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Emilly0liveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 
-</p>
+---
 
-### 🤖 Linguagens e Tecnologias
-<br>
+### Tech Stack
+<h4> Languages & Full Stack </h4>
 
 <img 
     align="left" 
@@ -74,3 +71,15 @@ Me chamo Emilly Gabrielly , tenho 22 anos e atualmente moro em Brasília-DF. Pos
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+---
+
+### Fun Facts
+
+* **Animation:** Huge fan of Anime and Independent Animation (shoutout to Le Goblins).
+* **Reading:** Currently reading *The Silent Patient* and *Uzumaki*, I love reading horror and fantasy books.
+* **Fitness:** Gym & Runnig.
+  
+---
+
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-oliveira-07a4a526a/)
