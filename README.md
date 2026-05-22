@@ -75,7 +75,7 @@ Hi, I'm Emilly! I hold a degree in Systems Analysis and Development from CEUB Un
 
 ### Fun Facts
 
-* **Animation:** Huge fan of Anime and Independent Animation (shoutout to Le Goblins).
+* **Animation:** Huge fan of Anime and Independent Animation.
 * **Reading:** Currently reading *The Silent Patient* and *Uzumaki*, I love reading horror and fantasy books.
 * **Fitness:** Gym & Runnig.
   
